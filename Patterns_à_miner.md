@@ -1,3 +1,5 @@
+![Labolex à Barcelone. CC-BY-SA Ouishare.]({{site.baseurl}}/https://c1.staticflickr.com/9/8106/8571450837_28c67c00ce_b.jpg)
+
 ## Patterns co-créatifs bruts
 
 Comme un diamant, un pattern doit être extrait, puis poli pour atteindre son plein potentiel. Les patterns ci-dessous sont simplement des extraits bruts à rafiner.
