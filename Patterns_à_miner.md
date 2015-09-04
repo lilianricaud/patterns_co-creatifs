@@ -2,6 +2,8 @@
 
 Comme un diamant, un pattern doit être extrait, puis poli pour atteindre son plein potentiel. Les patterns ci-dessous sont simplement des extraits bruts à rafiner.
 
+testons
+
 ### APPROCHE MINIMALISTE
 
 Voir less is more dans getting real
@@ -238,4 +240,3 @@ https://docs.google.com/spreadsheets/d/1dVhQs7aiS9wE1EkmaITFKL-9jDxwx6uFzE992qQh
 ### When feeling sorry for yourself, do something kind for someone else.
 ### Knowledge artifacts
 ### Meaningful space
-
