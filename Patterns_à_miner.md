@@ -27,6 +27,13 @@ Noter seulement une idée par post it permet de créer des ARTEFACTS modulaires 
 
 enregistrer, prendre de notes, … verbe d'action ?
 
+### ANCRAGES
+
+- rythmes et chants pour ancrer dans le corps
+- affichage, écrits, dessins, images dans l'environnement proche (tatouage, espace physique, espace en ligne)
+- monuments / chefs-d'oeuvre
+- réification: ancrer des idées (invisibles) dans des objets physiques (visibles et plus facile à manipuler)
+
 ### BON GOUT
 ### PAUSE
 ### CHECK IN / CHECK OUT
