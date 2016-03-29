@@ -16,6 +16,8 @@ Il est donc préférable d'expliciter/rendre visible la structure de pouvoir pou
 
 Si une forme de concentration des responsabilités semble donc nécessaire, elle doit être précisée et faire l'objet d'un travail specifique.
 
+D'autre part, la représentation classique associé au role de chef, crée des rolês de suiveurs ou les gens sont passifs.
+
 L'expression du leadership de chacun est un puissant facteur de mobilisation des compétences et de l'energie des membres du groupe.
 
 **Pour éviter la concentration de pouvoir dans les mains d'une seule personne ou d'un groupe de personnes et favoriser l'implication des autres membres il y a deux mécanismes possible et combinables:
