@@ -1,4 +1,4 @@
-
+# Leadership circulant
 
 Aucune rencontre humaine n'échappe à la question de l'exercice du "pouvoir" d'influence de chacun sur les autres et des autres sur soi.
 
@@ -16,14 +16,18 @@ Il est donc préférable d'expliciter/rendre visible la structure de pouvoir pou
 
 Si une forme de concentration des responsabilités semble donc nécessaire, elle doit être précisée et faire l'objet d'un travail specifique.
 
-**Pour éviter la concentration de pouvoir dans les mains d'une seule personne ou d'un groupe de personnes il y a deux mécanismes possible et combinables:
+L'expression du leadership de chacun est un puissant facteur de mobilisation des compétences et de l'energie des membres du groupe.
+
+**Pour éviter la concentration de pouvoir dans les mains d'une seule personne ou d'un groupe de personnes et favoriser l'implication des autres membres il y a deux mécanismes possible et combinables:
 - expliciter les fonctions vitales du groupe et les découper en plusieurs rôles (voir fonctions vitales des groupes)
-- faire tourner ces roles (par décision collectives, élections sans candidats, ...)**
+- faire tourner ces roles (par décision collectives, élection sans candidats, ...)**
+
+
 
 ## Patterns liés
 
 - fonctions vitales des groupes
-- élections sans candidats
+- élection sans candidats
 
 ## Sources
 
