@@ -22,9 +22,15 @@ L'expression du leadership de chacun est un puissant facteur de mobilisation des
 
 **Pour éviter la concentration de pouvoir dans les mains d'une seule personne ou d'un groupe de personnes et favoriser l'implication des autres membres il y a deux mécanismes possible et combinables:
 - expliciter les fonctions vitales du groupe et les découper en plusieurs rôles (voir fonctions vitales des groupes)
-- faire tourner ces roles (par décision collectives, élection sans candidats, ...)**
+- faire tourner ces roles (par décision collectives, élection sans candidats, ...) pour éviter de se scléroser et s'enfermer dans des rôles ** 
 
+Il ne s'agit pas seulement de confier la responsabilité. Il s'agit de reconnaitre la pleine capacité de la personne à prendre temporairement la conduite dans tel ou tel domaine, à telle ou telle phase du projet, sous réserve du controle du collectif. 
 
+Ce faisant, la personne mandatée par le groupe incarne la fonction vitale en question. Cela évite le "cumul" des fonctions sur les épaules d'une ou deux personnes, renforce la responsabilisation et permet de passer de la noation de hierarchie qui confère une importance plus grande à telle ou telle fonction, incarnée par telle ou telle personne, à la notion de co-responsabilité, co-protection par le groupe, expression du leardership circulant.
+
+Le terme de co-protection est important. Il n'y a pas de responsabilité pour le groupe sans protection par le groupe. Plutot que de "confier la patate chaude", et regarder comment ça se passe, **il convient de créer les conditions de réussite de celui qui prend le leadership**.
+
+Ce type d'approche n'est possible qu'avec un groupe qui a posé un certain nombre de principes, nottamment l'auto-évaluation, l'expression des enjeux personnels et la reconnaissance des plus ou moins grandes capacités, envies ou compétences des uns et des autres, selon les sujets.
 
 ## Patterns liés
 
