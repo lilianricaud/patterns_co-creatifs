@@ -20,9 +20,9 @@ D'autre part, la représentation classique associé au role de chef, crée des r
 
 L'expression du leadership de chacun est un puissant facteur de mobilisation des compétences et de l'energie des membres du groupe.
 
-**Pour éviter la concentration de pouvoir dans les mains d'une seule personne ou d'un groupe de personnes et favoriser l'implication des autres membres il y a deux mécanismes possible et combinables:
-- expliciter les fonctions vitales du groupe et les découper en plusieurs rôles (voir fonctions vitales des groupes)
-- faire tourner ces roles (par décision collectives, élection sans candidats, ...) pour éviter de se scléroser et s'enfermer dans des rôles ** 
+**Pour éviter la concentration de pouvoir dans les mains d'une seule personne ou d'un groupe de personnes et favoriser l'implication des autres membres il y a deux mécanismes possible et combinables:**
+- **expliciter les fonctions vitales du groupe et les découper en plusieurs rôles (voir fonctions vitales des groupes)**
+- **faire tourner ces roles (par décision collectives, élection sans candidats, ...) pour éviter de se scléroser et s'enfermer dans des rôles** 
 
 Il ne s'agit pas seulement de confier la responsabilité. Il s'agit de reconnaitre la pleine capacité de la personne à prendre temporairement la conduite dans tel ou tel domaine, à telle ou telle phase du projet, sous réserve du controle du collectif. 
 
